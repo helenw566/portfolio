@@ -213,7 +213,7 @@ author_profile: true
         <div>
           <h3 class="publication-title">{{ post.title }}</h3>
           {% if post.authors %}
-          <div class="publication-authors">{{ post.authors | replace: 'Yi Ru Wang', '<strong>Yi Ru Wang</strong>' | replace: 'Wang, Y. R.', '<strong>Wang, Y. R.</strong>' }}</div>
+          <div class="publication-authors">{{ post.authors }}</div>
           {% endif %}
           {% if post.venue %}
           <div class="publication-venue">{{ post.venue }}</div>
