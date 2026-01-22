@@ -1,5 +1,5 @@
 ---
-title: "Predicting 3d shapes, masks, and properties of materials, liquids, and objects inside transparent containers, using the Transproteus CGI dataset"
+title: "Predicting NYPD Misconduct Case Outcomes and Penalties"
 collection: projects
 permalink: /projects/nypd-misconduct
 excerpt: 'Supervised Machine Learning to predict case and penalty outcomes for NYPD misconduct cases'
