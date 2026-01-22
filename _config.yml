@@ -60,6 +60,7 @@ author:
   name   : "Helen Wang"
   avatar : "/assets/images/profile-photo.png"
   bio    : "Data Science for Public Policy @ Georgetown"
+  location: "Washington, D.C." 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,6 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/helenw566"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0000-5012-1538"
 
 footer:
   links:
