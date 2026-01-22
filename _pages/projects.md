@@ -6,9 +6,6 @@ author_profile: true
 
 <style>
 .publications-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
   margin: 2rem 0;
 }
 
@@ -20,7 +17,6 @@ author_profile: true
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   border: 1px solid #e1e5e9;
   margin-bottom: 1rem;
-  width: 100%;
 }
 
 .publication-item:hover {
@@ -38,7 +34,7 @@ author_profile: true
 .publication-thumbnail {
   width: 200px;
   height: 120px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #118656 0%, #79f5bbba 100%);
   display: flex;
   align-items: center;
   justify-content: center;
