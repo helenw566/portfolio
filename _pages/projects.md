@@ -6,6 +6,9 @@ author_profile: true
 
 <style>
 .publications-list {
+  display: grid;
+  grid-template-columns: 1fr; 
+  gap: 1rem;
   margin: 2rem 0;
 }
 
