@@ -1,6 +1,6 @@
 ---
-permalink: /
 title: "About"
+permalink: /
 author_profile: true
 ---
 
@@ -9,3 +9,13 @@ Hello! My name is Helen and I am a second-year Master’s student at Georgetown 
 My personal background has shaped my commitment in understanding how adversity and systemic inequities shape people’s decision-making, relationships, and long-term outcomes. With over 7+ years of experience in social science research—including work at the National Institutes of Health on health disparities and social networks—I have seen firsthand how evidence and data can drive meaningful social change. Over time, my interests have evolved from academic research to a broader focus on driving evidence-based recommendations in social, health, and criminal justice policy.
 
 As a Data Scientist, I hope to leverage quantitative research and data analysis to address socioeconomic inequities and advance social justice through meaningful policy.
+
+**TL;DR**
+
+-   Coding: R, Python, SQL, Git/GitHub
+
+-   Data Visualization Tools: Tableau, DataWrapper, Excel/Google Sheets, ggplot2, plotly, etc.
+
+-   Experience with advanced statistical methods (i.e., linear regression, hierarchical modeling, network analysis, econometrics), qualitative methods (i.e., thematic analysis), and machine learning (i.e., supervised and unsupervised methods including classification and clustering)
+
+-   Work experience with the public (National Institutes of Health), private (Credence Management Solutions), and non-profit sectors (Vera Institute of Justice)

@@ -151,35 +151,35 @@ author_profile: true
 }
 
 .publication-link.primary {
-  background: #667eea;
-  color: white;
-  border-color: #667eea;
+  background: #ea66ac52;
+  color: #212529;
+  border-color: #ea66ac52;
 }
 
 .publication-link.primary:hover {
-  background: #5a6fd8;
-  color: white;
+  background: #ea66ac52;
+  color: #212529;
 }
 
 .publication-link.secondary {
-  background: #28a745;
-  color: white;
-  border-color: #28a745;
+  background: #28a7465e;
+  color: #212529;
+  border-color: #28a7465e;
 }
 
 .publication-link.secondary:hover {
-  background: #218838;
-  color: white;
+  background: #28a7465e;
+  color: #212529;
 }
 
 .publication-link.tertiary {
-  background: #ffc107;
+  background: #ffc10728;
   color: #212529;
-  border-color: #ffc107;
+  border-color: #ffc10728;
 }
 
 .publication-link.tertiary:hover {
-  background: #e0a800;
+  background: #ffc10728;
   color: #212529;
 }
 
