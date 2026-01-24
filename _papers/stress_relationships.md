@@ -1,7 +1,7 @@
 ---
 title: "The role of marriage and partnership in caregiving: Links to the hypothalamic–pituitary–adrenal axis"
-collection: projects
-permalink: /projects/stress_relationships
+collection: papers
+permalink: /papers/stress_relationships
 excerpt: "Evaluating the effect that marital status has on the coping mechanisms, mental health, and physical health outcomes of caregivers of children with rare and/or undiagnosed diseases"
 date: 2025-01-01
 venue: 'Published in Couple and Family Psychology: Research and Practice 14(4)'

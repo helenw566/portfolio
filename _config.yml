@@ -26,14 +26,13 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 url: "https://helenw566.github.io"
 baseurl: "/portfolio"
 
 include:
   - _pages
+  - assets/files
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -49,7 +48,6 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -60,8 +58,11 @@ author:
   name   : "Helen Wang"
   avatar : "/assets/images/profile-photo.png"
   bio    : "Data Science for Public Policy @ Georgetown"
-  location: "Washington, D.C." 
+  location: "Washington, D.C."   
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:helenw.c22@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://helenw566.github.io/portfolio"
@@ -77,6 +78,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:helenw.c22@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/helen-w-735783163"
@@ -86,20 +90,10 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0000-5012-1538"
+   
 
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -107,6 +101,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 category_archive:
   type: liquid
@@ -117,4 +112,12 @@ tag_archive:
 
 collections:
   projects:
+    output: true
+  papers:
+    output: true
+  research:
+    output: true
+  misc:
+    output: true
+  thesis:
     output: true

@@ -1,7 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
-author_profile: true
+title: "Curriculum Vitae"
 ---
 
 <iframe
@@ -10,9 +9,3 @@ author_profile: true
   height="900px"
   style="border:none;">
 </iframe>
-
-<p>
-  <a href="{{ site.baseurl }}/assets/files/master_cv.pdf">
-    Download PDF
-  </a>
-</p>

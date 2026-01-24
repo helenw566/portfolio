@@ -13,9 +13,8 @@ As a Data Scientist, I hope to leverage quantitative research and data analysis 
 **TL;DR**
 
 -   Coding: R, Python, SQL, Git/GitHub
-
--   Data Visualization Tools: Tableau, DataWrapper, Excel/Google Sheets, ggplot2, plotly, etc.
-
--   Experience with advanced statistical methods (i.e., linear regression, hierarchical modeling, network analysis, econometrics), qualitative methods (i.e., thematic analysis), and machine learning (i.e., supervised and unsupervised methods including classification and clustering)
-
+-   Cloud: Google Cloud Platform/BigQuery, AWS, Snowflake
+-   Data Visualization Tools: Tableau, DataWrapper, Shiny, Excel/Google Sheets, ggplot2, plotly, etc.
+-   Experience with advanced statistical methods (i.e., linear regression, hierarchical modeling, network analysis, econometrics), qualitative methods (i.e., thematic analysis), and machine learning (i.e., supervised and unsupervised methods including classification, clustering, and natural language processing)
 -   Work experience with the public (National Institutes of Health), private (Credence Management Solutions), and non-profit sectors (Vera Institute of Justice)
+
