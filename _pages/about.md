@@ -4,17 +4,23 @@ permalink: /
 author_profile: true
 ---
 
-Hello! My name is Helen (she/her/hers) and I am a second-year Master’s student at Georgetown University’s Data Science for Public Policy program. Prior to coming to Georgetown, I earned a Bachelors of Arts in Psychology along with a Certificate in Cognitive Science from Princeton University. As a first-generation, low-income student, I credit the support of the [QuestBridge National College Match Program](https://www.questbridge.org/apply-to-college/programs/national-college-match/the-match-scholarship) and the [National Institutes of Health Undergraduate Scholarship Program](https://www.training.nih.gov/research-training/pb/ugsp/) for making my educational journey possible.
+Hello! I'm Helen (she/her). 
 
-My personal background has shaped my commitment in understanding how adversity and systemic inequities shape people’s decision-making, relationships, and long-term outcomes. With over 7+ years of experience in social science research—including work at the National Institutes of Health on health disparities and social networks—I have seen firsthand how evidence and data can drive meaningful social change. Over time, my interests have evolved from academic research to a broader focus on driving evidence-based recommendations in social, health, and criminal justice policy.
+I am a data scientist and a second-year Master’s student at Georgetown University’s Data Science for Public Policy program. I'm passionate about social justice and my work revolves around leveraging data to address the structural inequities in our healthcare, social institutions, and criminal justice system.
 
-As a Data Scientist, I hope to leverage quantitative research and data analysis to address socioeconomic inequities and advance social justice through meaningful policy.
+These interests and perspectives are shaped by my personal background as a first-generation, low-income student. Having earned my Bachelors of Arts in Psychology and Certificate in Cognitive Science from Princeton University through the support of the [QuestBridge National College Match Program](https://www.questbridge.org/apply-to-college/programs/national-college-match/the-match-scholarship) and the [National Institutes of Health Undergraduate Scholarship Program](https://www.training.nih.gov/research-training/pb/ugsp/), I am conscious of how disparities in opportunities and access can shape life trajectories. I see data science and research as a tool to (1) understand the different ways that adversity and systemic inequities impact our lives and (2) inform evidence-backed solutions to dismantle these structural barriers. 
+
+With over 4 years of experience in social science research across public, private, and nonprofit sectors, I have seen firsthand how evidence and data can drive meaningful social change. At the National Institutes of Health, I used quantiative methods to examine how social networks drive health outcomes in caregivers and supported community education programs focused on increasing genetic literacy in low-income BIPOC communities. At Credence Management Solutions, I worked at the intersection of public policy and public health, leveraging market and scientific research to understand federal health priorities and shape public health solutions. At the Vera Institute of Justice, I analyzed federal and state incarceration data to unveil how our criminal justice system hides widening racial disparities in the labor market. 
+
+In my work, I blend rigorous statistical methods from behavioral science (i.e. psychology and public policy) with machine learning techniques, applying them across the social and life sciences to drive evidence-backed recommendations. As a Data Scientist, I aim to leverage quantitative research and data analysis to inform decision-making and promote social justice.
 
 **TL;DR**
 
--   Coding: R, Python, SQL, Git/GitHub
--   Cloud: Google Cloud Platform/BigQuery, AWS, Snowflake
+-   Data Scientist focused on social, health, and criminal justice policy, commited to advancing equity through evidence-backed recommendations
+-   4+ years of applied data science and research experience across public, private, and nonprofit sectors
+-   Experience with applying advanced statistical methods, machine learning (including NLP), network analysis, and mixed-methods approaches  across behavioral science, public health, and criminal justice domains
+-   Extensive research dissemination experience to both technical and non-technical audiences through publications, poster presentations, newsletters, research briefs, data stories, and internal team presentations to management
+-   Cloud Infrastructure: Google Cloud Platform, AWS, Snowflake
 -   Data Visualization Tools: Tableau, DataWrapper, Shiny, Excel/Google Sheets, ggplot2, plotly, etc.
--   Experience with advanced statistical methods (i.e., linear regression, hierarchical modeling, network analysis, econometrics), qualitative methods (i.e., thematic analysis), and machine learning (i.e., supervised and unsupervised methods including classification, clustering, and natural language processing)
--   Work experience with the public (National Institutes of Health), private (Credence Management Solutions), and non-profit sectors (Vera Institute of Justice)
+-   Coding: R, Python, SQL, Git/GitHub
 
