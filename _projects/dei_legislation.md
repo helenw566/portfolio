@@ -5,9 +5,9 @@ permalink: /projects/dei-legislation
 excerpt: "Structural topic modeling to evaluate topic prevalence and content in DEI legislation along with network analysis of cosponsorship networks"
 date: 2025-12-13
 venue: 'Project'
-paperurl: 'https://github.com/helenw566/shsat_sentiments/blob/main/report/Project%20Report_%20Examining%20SHSAT%20Sentiments.pdf'
+paperurl: 'https://github.com/helenw566/dei_legislation/blob/main/report/insight_report.docx'
 website: 'https://helenw566.shinyapps.io/showcase/'
-code: 'https://github.com/helenw566/shsat_sentiments'
+code: 'https://github.com/helenw566/dei_legislation'
 authors: 'Helen Wang'
 ---
 Structural topic modeling to evaluate topic prevalence and content in DEI legislation along with network analysis of cosponsorship networks
