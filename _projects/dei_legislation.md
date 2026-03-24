@@ -14,9 +14,9 @@ Structural topic modeling to evaluate topic prevalence and content in DEI legisl
 
 **Authors:** Helen Wang
 
-[Download paper here](https://github.com/helenw566/shsat_sentiments/blob/main/report/Project%20Report_%20Examining%20SHSAT%20Sentiments.pdf)
+[Download paper here](https://github.com/helenw566/dei_legislation/blob/main/report/insight_report.docx)
 
-[Code Repository](https://github.com/helenw566/shsat_sentiments) 
+[Code Repository](https://github.com/helenw566/dei_legislation) 
 
 [Dashboard]
 (https://helenw566.shinyapps.io/showcase/)
