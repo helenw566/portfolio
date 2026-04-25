@@ -511,7 +511,7 @@ and personal ventures.
           {% endif %}
           {% if post.website %}
           <a href="{{ post.website }}" class="project-link secondary" target="_blank">
-            🌐 Dashboard
+            🌐 Media
           </a>
           {% endif %}
           {% if post.code %}
